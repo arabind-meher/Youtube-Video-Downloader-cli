@@ -1,0 +1,9 @@
+argparse
+pytube
+opencv-python
+numpy
+requests
+num2words
+hurry
+progress
+ffmpeg-python
