@@ -4,6 +4,6 @@ opencv-python
 numpy
 requests
 num2words
-hurry
+hurry.filesize
 progress
 ffmpeg-python
